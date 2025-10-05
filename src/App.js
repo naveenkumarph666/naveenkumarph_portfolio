@@ -1,6 +1,5 @@
 import React from "react";
 import NavBar from "./components/NavBar";
-import CoverSection from "./components/CoverSection";
 import AboutSection from "./components/AboutSection";
 import ProjectsSection from "./components/ProjectsSection";
 import ContactSection from "./components/ContactSection";
