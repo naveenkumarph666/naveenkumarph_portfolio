@@ -1,0 +1,31 @@
+.navbar {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    background: rgba(30, 30, 47, 0.9);
+    /* slightly transparent dark */
+    z-index: 1000;
+    padding: 10px 10px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+.navbar ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    gap: 30px;
+    margin-inline-end:30px;
+}
+
+.navbar li {
+    cursor: pointer;
+    font-weight: 600;
+    transition: color var(--transition-speed);
+}
+
+.navbar li:hover {
+    color: var(--accent-color);
+}

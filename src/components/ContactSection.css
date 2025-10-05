@@ -1,0 +1,26 @@
+.contact-section {
+    background: var(--bg-light);
+    color: #1e1e2f;
+    padding: 100px 20px;
+    text-align: center;
+}
+
+.contact-section h2 {
+    font-family: var(--font-heading);
+    font-size: 2.5rem;
+    margin-bottom: 20px;
+}
+
+.contact-section p {
+    font-size: 1.2rem;
+    line-height: 1.5;
+}
+
+.contact-section a {
+    color: var(--accent-color);
+    font-weight: 600;
+}
+
+.contact-section a:hover {
+    text-decoration: underline;
+}
