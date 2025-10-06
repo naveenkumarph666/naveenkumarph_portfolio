@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/naveenkumarph666.github.io/naveenkumarph_portfolio/static/css/main.d3178ab3.css",
-    "main.js": "/naveenkumarph666.github.io/naveenkumarph_portfolio/static/js/main.72e66fe3.js",
-    "static/media/cover.jpeg": "/naveenkumarph666.github.io/naveenkumarph_portfolio/static/media/cover.a2149d84a29d8eb9aee8.jpeg",
-    "index.html": "/naveenkumarph666.github.io/naveenkumarph_portfolio/index.html",
-    "main.d3178ab3.css.map": "/naveenkumarph666.github.io/naveenkumarph_portfolio/static/css/main.d3178ab3.css.map",
-    "main.72e66fe3.js.map": "/naveenkumarph666.github.io/naveenkumarph_portfolio/static/js/main.72e66fe3.js.map"
+    "main.css": "/naveenkumarph_portfolio/static/css/main.d3178ab3.css",
+    "main.js": "/naveenkumarph_portfolio/static/js/main.fa7fb51c.js",
+    "static/media/cover.jpeg": "/naveenkumarph_portfolio/static/media/cover.a2149d84a29d8eb9aee8.jpeg",
+    "index.html": "/naveenkumarph_portfolio/index.html",
+    "main.d3178ab3.css.map": "/naveenkumarph_portfolio/static/css/main.d3178ab3.css.map",
+    "main.fa7fb51c.js.map": "/naveenkumarph_portfolio/static/js/main.fa7fb51c.js.map"
   },
   "entrypoints": [
     "static/css/main.d3178ab3.css",
-    "static/js/main.72e66fe3.js"
+    "static/js/main.fa7fb51c.js"
   ]
 }
