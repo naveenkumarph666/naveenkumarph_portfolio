@@ -1,0 +1,41 @@
+.skill-section{
+    background: var(--bg-light);
+        color: #1e1e2f;
+        padding: 100px 20px;
+        text-align: center;
+        flex:1;
+}
+
+.skill-section h2 {
+    font-family: var(--font-heading);
+    font-size: 2.5rem;
+    margin-bottom: 20px;
+}
+
+.skill-section div{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    text-align: start;
+    gap:30px;
+}
+
+.skill-section ul {
+    list-style-type: circle;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    margin-inline-end: 30px;
+}
+
+.skill-section li {
+    cursor: pointer;
+    font-weight: 600;
+    transition: color var(--transition-speed);
+}
+
+.skill-section li:hover {
+    color: var(--accent-color);
+}

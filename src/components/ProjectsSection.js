@@ -93,18 +93,4 @@ function ProjectsSection({ projects }) {
   );
 }
 
-
-
-//   return (
-//     <scroll horizontal>
-
-//       <h2>Projects</h2>
-//       <div 
-
-//       </div>
-//     </section>
-//    </scroll>
-//   );
-// };
-
 export default ProjectsSection;

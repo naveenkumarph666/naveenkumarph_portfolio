@@ -1,14 +1,15 @@
 .contact-section {
-    background: var(--bg-light);
-    color: #1e1e2f;
+    background: var(--bg-dark);
+    color: var(--text-color);
     padding: 100px 20px;
     text-align: center;
 }
 
 .contact-section h2 {
-    font-family: var(--font-heading);
-    font-size: 2.5rem;
-    margin-bottom: 20px;
+    text-align: center;
+        font-family: var(--font-heading);
+        font-size: 2.5rem;
+        margin-bottom: 40px;
 }
 
 .contact-section p {
